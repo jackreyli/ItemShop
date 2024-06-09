@@ -2,50 +2,63 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "AthenaBackpack:BID_256_ShatterFly"
         ],
-        "price": 1200
+        "price": 1000
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
+            "AthenaCharacter:CID_725_Athena_Commando_F_AgentX"
         ],
-        "price": 500
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KEagle"
+            "AthenaPickaxe:Pickaxe_ID_035_Prismatic"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Everytime"
+            "AthenaCharacter:CID_655_Athena_Commando_F_Barefoot"
         ],
-        "price": 700
+        "price": 1500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
+            "AthenaBackpack:BID_488_LuckyHero"
         ],
-        "price": 800
+        "price": 200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "AthenaPickaxe:Pickaxe_ID_215_Pug"
         ],
-        "price": 300
+        "price": 1000
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaItemWrap:Wrap_012_DragonMask"
+        ],
+        "price": 600
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "AthenaCharacter:CID_760_Athena_Commando_F_NeonTightSuit"
         ],
-        "price": 2500
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "AthenaCharacter:CID_362_Athena_Commando_F_BandageNinja"
         ],
-        "price": 2000
+        "price": 2500
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_140_StreetGoth"
+        ],
+        "price": 300
+        
     }
 }
