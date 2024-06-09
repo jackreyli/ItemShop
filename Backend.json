@@ -36,12 +36,6 @@
         ],
         "price": 1000
     },
-    "daily6": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_012_DragonMask"
-        ],
-        "price": 600
-    },
     "featured1": {
         "itemGrants": [
             "AthenaCharacter:CID_760_Athena_Commando_F_NeonTightSuit"
