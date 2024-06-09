@@ -8,5 +8,4 @@ CID_725_Athena_Commando_F_AgentX, 1200
 Pickaxe_ID_035_Prismatic, 500
 CID_655_Athena_Commando_F_Barefoot, 1500
 BID_488_LuckyHero, 200
-Wrap_012_DragonMask, 600
 Pickaxe_ID_215_Pug, 1000
